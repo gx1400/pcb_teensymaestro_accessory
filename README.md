@@ -1,1 +1,1 @@
-![image of pcb](img\image.png "PCB")
+![image of pcb](img/image.png "PCB")
